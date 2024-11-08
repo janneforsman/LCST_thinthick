@@ -1,0 +1,18 @@
+The main Fortran cDFT code is
+"dftpm_2state_impls_varbl_aaspec_1wtrM.f"
+
+Results are collected in sub-directories, with (hopefully)
+rather obvious names.
+Monomer and state probability profiles are
+denoted "fccdfil" and "Pdistr", respectively.
+Those obtained at coexistence are specifically saved
+so that (say)
+"fcdg_T2.96316"
+implied the monomer density profile of the thin phase
+in coexistence with a thick phase at a reduced temperature of 2.96316.
+"fcdl_T2.96316" is the coexisting monomer density profile of the thick phase.
+Log files with other data are saved as
+"tg_T2.96316" (thin phase)
+etc.
+
+
