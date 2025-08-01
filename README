@@ -1,6 +1,15 @@
 The main Fortran cDFT code is
 "dftpm_2state_impls_varbl_aaspec_1wtrM.f"
 
+The work was published in:
+On the existence of prewetting in supracritical fluid mixtures
+J. Forsman and C. E. Woodward
+Soft Matter, 21(14):2723–2728, 2025
+DOI: 10.1039/D5SM00099H
+ISBN: 1744-683X
+
+
+
 Results are collected in sub-directories, with (hopefully)
 rather obvious names.
 Monomer and state probability profiles are
